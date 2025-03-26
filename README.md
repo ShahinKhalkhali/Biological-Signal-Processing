@@ -6,5 +6,6 @@ More information about the data acquisition can be found here: https://www.natur
 Question:
 Using the same pipeline shown in the tutorial report the following activation maps for one subject (assigned based on your group number) and for the group :
 - Famous face > 0
-- Unfamiliar face > 0 - Faces > Scrambled Faces
+- Unfamiliar face > 0
+- Faces > Scrambled Faces
 For the group analysis, report the result on the MNI template. For the subject result, report the result on the subject-specific anatomy (skip normalization). For both, report all statistically significant results with a threshold of p < 0.05 (FWE corrected).
