@@ -14,7 +14,7 @@ project_folder = 'C:\Users\Shahi\OneDrive - Concordia University - Canada\WINTER
 % modify your subject here:
 subject = 'Sub08'; % 1 to 16, keep 0 padding for 1 digit subjects
 % modify the run here:
-run = 5; % 1 to 9
+run = 9; % 1 to 9
 
 subject_folder = append(project_folder, subject);
 run_number = append('Run_0', int2str(run));
